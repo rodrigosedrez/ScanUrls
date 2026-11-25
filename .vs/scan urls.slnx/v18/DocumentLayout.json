@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJETOS GIT CURRICULO\\ITENS DO PROJETO LOONEY ROMS\\scan urls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44F8E48-85CB-8D62-1349-0E393D5FC76E}|scan urls\\scan urls.csproj|e:\\projetos git curriculo\\itens do projeto looney roms\\scan urls\\scan urls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44F8E48-85CB-8D62-1349-0E393D5FC76E}|scan urls\\scan urls.csproj|solutionrelative:scan urls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\ITENS DO PROJETO LOONEY ROMS\\scan urls\\scan urls\\Program.cs",
+              "RelativeDocumentMoniker": "scan urls\\Program.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\ITENS DO PROJETO LOONEY ROMS\\scan urls\\scan urls\\Program.cs",
+              "RelativeToolTip": "scan urls\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:35:05.282Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

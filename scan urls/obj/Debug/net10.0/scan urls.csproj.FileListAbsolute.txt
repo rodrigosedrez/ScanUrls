@@ -1,0 +1,45 @@
+C:\PROJECTS\scan urls\scan urls\bin\Debug\net10.0\scan urls.exe
+C:\PROJECTS\scan urls\scan urls\bin\Debug\net10.0\scan urls.deps.json
+C:\PROJECTS\scan urls\scan urls\bin\Debug\net10.0\scan urls.runtimeconfig.json
+C:\PROJECTS\scan urls\scan urls\bin\Debug\net10.0\scan urls.dll
+C:\PROJECTS\scan urls\scan urls\bin\Debug\net10.0\scan urls.pdb
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfoInputs.cache
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfo.cs
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.csproj.CoreCompileInputs.cache
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.dll
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\refint\scan urls.dll
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.pdb
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\scan urls.genruntimeconfig.cache
+C:\PROJECTS\scan urls\scan urls\obj\Debug\net10.0\ref\scan urls.dll
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.exe
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.deps.json
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.runtimeconfig.json
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.dll
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.pdb
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfoInputs.cache
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfo.cs
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.dll
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\refint\scan urls.dll
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.pdb
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.genruntimeconfig.cache
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\ref\scan urls.dll
+C:\PROJECTS\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.csproj.Up2Date
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.exe
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.deps.json
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.runtimeconfig.json
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.runtimeconfig.dev.json
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.dll
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\bin\Debug\net10.0\scan urls.pdb
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfoInputs.cache
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.AssemblyInfo.cs
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.csproj.CoreCompileInputs.cache
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.dll
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\refint\scan urls.dll
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.pdb
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.genruntimeconfig.cache
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\ref\scan urls.dll
+E:\PROJETOS GIT CURRICULO\ITENS DO PROJETO LOONEY ROMS\scan urls\scan urls\obj\Debug\net10.0\scan urls.csproj.Up2Date
